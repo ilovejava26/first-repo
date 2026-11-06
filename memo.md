@@ -61,3 +61,7 @@ git add . && git commit -m "." && git push
 touch README.md
 # /c/workspace/261106_review
 ```
+
+```
+@README.md 를 바탕으로 syntax.md 를 코딩 초보자 입장에서 아주 쉽게 하지만, 향후 기술면접이나 프로젝트 운영에서도 사용할 수 있게 상세하고 여러 트러블슈팅, 응용케이스까지 넣어서 작성해줘.
+```

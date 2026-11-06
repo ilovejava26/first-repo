@@ -70,3 +70,54 @@ Git(깃)입니다 **Git(깃)**입니다 <strong>Git(깃)</strong>입니다
 
 <!-- html 주석과 동일 -->
 <!-- 감싸고 ctrl + / -->
+
+`물결표 그냥 누른거`
+> 모노스페이스로 (가로가 동일한 폰트폭) 표시해줌
+hello world
+`hello world`
+git add *f*
+`git add *f*`
+- 마크다운 문법을 무시하고 표시 (인라인 코드)
+
+```
+print("hello")
+print('i dont know')
+```
+
+- 컬러셋 또는 파싱
+```python
+print("hello")
+print('i dont know')
+```
+
+```java
+import java.util.*;
+
+System.out.println("Hello World");
+```
+
+```mermaid
+
+flowchart LR
+    WD[Working Directory] -->|git add| SA[Staging Area]
+    SA -->|git commit| LR[Local Repository]
+    LR -->|git push| GH[GitHub Remote]
+```
+
+- [링크](https://naver.com)
+![무언가의 스크린샷 온기가 남아있다](image.png)
+
+[![무언가의 스크린샷 온기가 남아있다](image.png)](https://naver.com)
+
+::형광펜:: <mark>형광펜</mark>
+
+테이블
+|제목1|제목2|제목3|
+|----|-----|----|
+|내용1|내용2|내용3|
+|내용1|내용2|내용3|
+
+|1|2|3|
+|-|-:|:-:|
+|내용1|내용2|내용3|
+|내용1|[링크](https://naver.com)|내용3|
