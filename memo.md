@@ -45,4 +45,9 @@ git pull origin main
 # git clone https://github.com/ilovejava26/share
 # git clone 저장소주소 새이름
 git clone https://github.com/ilovejava26/share my-share
+# git add . && git commit -m "." && git push
+```
+
+```
+index.html에 '나만 고양이가 없음을 한탄'하는 가장 간단한 형태의 페이지를 작성해줘.
 ```
