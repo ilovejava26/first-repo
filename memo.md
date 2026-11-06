@@ -51,3 +51,13 @@ git clone https://github.com/ilovejava26/share my-share
 ```
 index.html에 '나만 고양이가 없음을 한탄'하는 가장 간단한 형태의 페이지를 작성해줘.
 ```
+
+```sh
+git add . && git commit -m "." && git push
+```
+
+```sh
+# pwd
+touch README.md
+# /c/workspace/261106_review
+```
